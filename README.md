@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="" >
-      <img src="https://www.acs.com.hk/en/download-product-image-library/6187/6187-images-acr39t-a1.png" width="256px"/>
+      <img src="img/stick.png" width="256px"/>
     </a>
   </p>
   <p>
